@@ -1,4 +1,4 @@
-///C++
+```C++
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 #include <DHT_U.h>
@@ -82,3 +82,4 @@ void loop() {
   delay(250);
   }
   }
+```
