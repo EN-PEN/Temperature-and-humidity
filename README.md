@@ -175,7 +175,7 @@ void loop() {
   }
   }
   
-  圖片：![image]()
+  圖片：![image](https://github.com/EN-PEN/Temperature-and-humidity/blob/main/IMG20210330140526.jpg)
   
   
 
