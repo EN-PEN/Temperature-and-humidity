@@ -175,7 +175,7 @@ void loop() {
   }
   }
   ```
-  圖如下：![image](https://github.com/EN-PEN/LED-1-TO-4/blob/master/IMG20200915111514.jpg)
+  圖如下：![image](https://github.com/EN-PEN/Temperature-and-humidity/blob/main/IMG20210330142843.jpg)
   
   
 
